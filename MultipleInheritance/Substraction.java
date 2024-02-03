@@ -1,0 +1,8 @@
+package MultipleInheritance;
+
+public interface Substraction {
+	
+
+	int sub(int a, int b);
+
+}
